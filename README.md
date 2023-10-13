@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza @Lordsneak
 - 👀 I’m interested in Last Technologies
-- 🌱 I’m currently learning Java Spring boot
+- 🌱 I’m currently learning WORDPRESS CMS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
